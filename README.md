@@ -1,4 +1,8 @@
-# Calci
+<h1 align="center"> Calci  </h1>
+<h1 align="center"> Opening Animation/Splash Of The App!! </h1>
+<p align="center"> <img src = "https://user-images.githubusercontent.com/29389563/122674176-c113f480-d188-11eb-9b75-5c926b870a66.png" width="350" /> <p>
+<h1 align="center"> UI Of Calci Application !! </h1>
+<p align="center"> <img src = "https://user-images.githubusercontent.com/29389563/122674355-a4c48780-d189-11eb-80ae-6bc5d8c254ea.png" width="350" /> <p>
 
 
 <h1 align="center">Hi 👋, I'm Tanmay Gupta</h1>
